@@ -1,3 +1,14 @@
+######### Specific to Jekyll
+_site
+.sass-cache
+.jekyll-metadata
+######### Specific to this repo
+.bundle
+.ruby-version
+Gemfile.lock
+
+######## Generic
+
 # Windows image file caches
 Thumbs.db
 ehthumbs.db
