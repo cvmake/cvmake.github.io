@@ -156,6 +156,8 @@ pre {
  * Wrapper
  */
 .wrapper {
+//    outline: 1px solid orange;
+
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
     max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
     margin-right: auto;
@@ -165,11 +167,17 @@ pre {
     @extend %clearfix;
 
     @include media-query($on-laptop) {
-        max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-        padding-right: $spacing-unit / 2;
+//      outline: 1px solid blue;
+        max-width: -webkit-calc(#{$content-width} + #{$sidebar-width} - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} + #{$sidebar-width} - (#{$spacing-unit}));
+        padding-right: $sidebar-width + $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
+
+    @include media-query($on-palm) {
+//      outline: 1px solid pink;
+    }
+
 }
 
 

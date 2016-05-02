@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+title: Conejo Valley MakerSpace
+email: info@cvmake.org
+description: > # This will be put in the HEAD, so Google can show it.
+  The Conejo Valley MakerSpace is where new and experienced Makers
+  of all ages connect to work on real projects, share, learn, and have
+  fun.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://cvmake.github.io" # the base hostname & protocol for your site
+twitter_username: cvmake
+github_username:  cvmake
 
 # Build settings
 markdown: kramdown

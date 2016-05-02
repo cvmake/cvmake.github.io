@@ -24,9 +24,14 @@ $grey-color-dark:  darken($grey-color, 25%);
 
 // Width of the content area
 $content-width:    800px;
+$sidebar-width:    250px;
 
+// Sizes:
 $on-palm:          600px;
-$on-laptop:        800px;
+$on-laptop:        800px + $sidebar-width * 2 + $spacing-unit * 3;
+// Bigger than laptop is desktop. It has sidebar on the right and centered content.
+// Laptop has sideboar on the right, and slightly off-centered content to accomadate.
+// Palm has sidebar on the bottom. plus a hamburger menu.
 
 
 
