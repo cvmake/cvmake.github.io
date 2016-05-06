@@ -4,14 +4,5 @@ title: About
 permalink: /about/
 ---
 
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace
-CVMake is a MakerSpace.
+project types list
+flyer, parking, map including doors and inside directions

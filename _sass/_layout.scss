@@ -94,17 +94,17 @@
 }
 
 /*
- * Site footer
+ * Site sidebar
  */
  @media (min-width: $on-palm) {
-  .site-footer {
+  .site-sidebar {
     position: absolute;
-    top: 1rem;
-    right: 1rem;
+    top: 20px;
+    right: 15px;
     width: $sidebar-width;
   }
 }
-.site-footer {
+.site-sidebar {
   background-color: white;
   padding: 0.5em; //$spacing-unit 0;
   border: 8px solid $grey-color-light;
@@ -114,7 +114,7 @@
   }
 }
 
-.footer-heading {
+.sidebar-heading {
     font-size: 18px;
     margin-bottom: $spacing-unit / 2;
 }

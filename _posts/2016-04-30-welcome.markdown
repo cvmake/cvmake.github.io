@@ -4,4 +4,47 @@ title:  "Welcome to CVMake"
 date:   2016-04-30 21:36:05 +0000
 categories: cvmake
 ---
-First Post.
+
+
+community / Membership / Workspace
+
+Meetings Every Thursday @ 8PM at CVMake
+
+We are forming a new makerspace in Westlake Village to serve the Conejo Valley area. The Conejo
+Valley Makerspace will support and embrace the resurgence of hands‐on Do‐It‐Yourself and maker
+culture through classes, meetups, membership, and community outreach where engineers, artists,
+students, and entrepreneurs can make ideas into real things.
+
+About the physical space: https://earth.callutheran.edu/entrepreneurship/about/space.php
+Note the Makerspace occupies room 107A but has use of the larger facility for events and classes.
+
+Community‐driven shared workspace on the 101 Tech Corridor in Westlake Village, CA
+
+- Embraces the resurgence of Do It Yourself, DIY, and Maker culture
+- In‐house manufacturing and rapid prototyping capabilities:
+    - 3D printers
+    - CNC machines
+    - Laser cutters
+    - Electronics & soldering stations
+- Programming classes (Web, Work, Game)
+- Intel, Arduino and Raspberry Pi classes
+- Regularly scheduled weekly meetings and larger events (every Wednesday is code night, etc.)
+- Relationships with other Makerspaces, Hackerspaces and education: CRASH Space, LA Makerspace, Local Schools and Universities
+
+Focus Areas:
+
+- Community development
+- Education and cross‐training
+- Independent research
+- Rapid manufacturing
+- Science, Technology, Engineering, Math (STEM) and Art (STEAM)
+- Idea incubation & business development
+- Engineering and design think‐tank
+- Invention
+
+
+Structure:
+
+- Membership funded community
+- Corporate funded sponsorships
+- B‐Corp, Public Benefit Corporation ‐or‐ 501(c)3 Non‐ProfitCommunity‐driven shared workspace on the 101 Tech Corridor in Westlake Village, CA

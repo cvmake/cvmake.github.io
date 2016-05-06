@@ -168,9 +168,9 @@ pre {
 
     @include media-query($on-laptop) {
 //      outline: 1px solid blue;
-        max-width: -webkit-calc(#{$content-width} + #{$sidebar-width} - (#{$spacing-unit}));
-        max-width:         calc(#{$content-width} + #{$sidebar-width} - (#{$spacing-unit}));
-        padding-right: $sidebar-width + $spacing-unit / 2;
+        max-width: -webkit-calc(#{$content-width} + #{$sidebar-width} + 15px - (#{$spacing-unit}));
+        max-width:         calc(#{$content-width} + #{$sidebar-width} + 15px - (#{$spacing-unit}));
+        padding-right: $sidebar-width + 15px + 15px + $spacing-unit / 2;
         padding-left: $spacing-unit / 2;
     }
 

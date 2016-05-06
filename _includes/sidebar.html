@@ -1,6 +1,8 @@
-<footer class="site-footer">
+<footer class="site-sidebar">
 
-    <h2 class="footer-heading">{{ site.title }}</h2>
+    <h2 class="sidebar-heading">{{ site.title }}</h2>
+
+<!-- TODO: someday donations -->
 
     <ul class="contact-list">
       <li class="meeting">Meetings: Thu 8-10pm</li>
@@ -9,11 +11,17 @@
       <li>(818) 588-6453</li>
     </ul>
 
+<!-- TODO: mailing list signup, link to group -->
+
+<!-- TODO: map, directions link? -->
+
     <ul class="contact-list">
       <li>{% include icon-email.html username=site.email %}</li>
       <li>{% include icon-twitter.html username=site.twitter_username %}</li>
       <li>{% include icon-github.html username=site.github_username %}</li>
       <li>{% include icon-facebook.html username=site.twitter_username %}</li>
+      <!-- TODO: meetup? -->
+      <!-- TODO: google plus? -->
     </ul>
 
     <p>{{ site.description }}</p>
