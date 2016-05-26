@@ -1,29 +1,46 @@
-<footer class="site-sidebar">
+<div class="header">
+  <h1 class="title"><a href="/">
+<img id="logo" alt="CVMake Logo" src="/images/cvmake-logo-0.12-2015-150.png"><br>Conejo Valley Makerspace</a></h1>
+  <span class="tagline">Making things since 2015</span>
+</div>
 
-    <h2 class="sidebar-heading">{{ site.title }}</h2>
+Meetings: Thu 7-9pm??<br>
 
-<!-- TODO: someday donations -->
-
-    <ul class="contact-list">
-      <li class="meeting">Meetings: Thu 7-9pm</li>
-      <li>705 Lakefield Rd, Suite D<br>
-          Westlake Village, California</li>
-      <li>(818) 588-6453</li>
-    </ul>
+<p>{{ site.description }}</p>
 
 <!-- TODO: mailing list signup, link to group -->
 
 <!-- TODO: map, directions link? -->
 
-    <ul class="contact-list">
-      <li>{% include icon-email.html username=site.email %}</li>
-      <li>{% include icon-twitter.html username=site.twitter_username %}</li>
-      <li>{% include icon-github.html username=site.github_username %}</li>
-      <li>{% include icon-facebook.html username=site.twitter_username %}</li>
-      <!-- TODO: meetup? -->
-      <!-- TODO: google plus? -->
-    </ul>
+<ul class="contact-list">
+  <li>{% include icon-email.html username=site.email %}</li>
+  <li>{% include icon-twitter.html username=site.twitter_username %}</li>
+  <li>{% include icon-github.html username=site.github_username %}</li>
+  <li>{% include icon-facebook.html username=site.twitter_username %}</li>
+  <!-- TODO: meetup? -->
+  <!-- TODO: google plus? -->
+  <!-- TODO: someday donations -->
+</ul>
 
-    <p>{{ site.description }}</p>
-
-</footer>
+<div class="posts">
+  <ul class="posts-list">
+    {% for post in site.posts %}
+      <li class="post-link">
+        <a class="post-title" href="{{ post.url }}">
+          <span class="post-date">{{ post.date | date_to_string }}</span>
+          {{ post.title }}
+        </a>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
+<div class="footer">
+  <span id="footer-links">
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <span class="separator">&bull;</span>
+      {% endif %}
+    {% endfor %} <a class="page-link" href="/">Home</a>
+  </span>
+</div>

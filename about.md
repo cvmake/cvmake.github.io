@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+cover: mikeout-and-j.jpg
 ---
 
 project types list

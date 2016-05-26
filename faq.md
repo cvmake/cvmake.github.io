@@ -2,6 +2,7 @@
 layout: page
 title: FAQ
 permalink: /faq/
+cover: default.jpg
 ---
 
 # Frequently Asked Questions

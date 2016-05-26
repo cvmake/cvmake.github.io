@@ -3,6 +3,7 @@ layout: post
 title:  "Welcome to CVMake"
 date:   2016-04-30 21:36:05 +0000
 categories: cvmake
+cover: default.jpg
 ---
 Community / Membership / Workspace
 
