@@ -3,11 +3,23 @@
 <img id="logo" alt="CVMake Logo" src="/images/cvmake-logo-0.12-2015-150.png"><br>Conejo Valley Makerspace</a></h1>
   <span class="tagline">Making things since 2015</span>
 </div>
-
-Meetings: Thu 7-9pm??<br>
+<div class="footer">
+  <span id="footer-links">
+    {% for my_page in (site.pages | sort:"path") %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      <span class="separator">&bull;</span>
+      {% endif %}
+    {% endfor %} <a class="page-link" href="/">Home</a>
+  </span>
+</div>
 
 <p>{{ site.description }}</p>
-
+</br>
+<b>Meetings: Every Thursday 6-8pm</b></br>
+Magzor Robotics</br>
+705 Lakefield Rd, Westlake Village, CA 91361</br>
+</br>
 <!-- TODO: mailing list signup, link to group -->
 
 <!-- TODO: map, directions link? -->
@@ -33,14 +45,4 @@ Meetings: Thu 7-9pm??<br>
       </li>
     {% endfor %}
   </ul>
-</div>
-<div class="footer">
-  <span id="footer-links">
-    {% for my_page in site.pages %}
-      {% if my_page.title %}
-      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-      <span class="separator">&bull;</span>
-      {% endif %}
-    {% endfor %} <a class="page-link" href="/">Home</a>
-  </span>
 </div>

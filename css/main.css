@@ -43,6 +43,10 @@ a:hover {
   color: #555;
 }
 
+h1 {
+  margin-bottom: 0.3em;
+}
+
 /*****************************************************************************/
 /*
 /* Home
@@ -121,8 +125,8 @@ a:hover {
 
 #date {
   font-size: 16px;
-  padding-top: 0.25em;
-  margin-bottom: 2em;
+/*  padding-top: 0.25em;
+  margin-bottom: 1em;*/
   text-transform: uppercase;
   font-weight: 600;
   color: #787878;
@@ -130,11 +134,12 @@ a:hover {
 
 #cover-photo-container,
 #info-container {
-  display: block;
+/*  display: block; */
 }
 
 #info-container {
-  margin-top: 3em;
+  margin-top: 1em;
+  margin-bottom: 0.4em;
 }
 
 #title {
@@ -300,3 +305,9 @@ a:hover {
   vertical-align: middle;
 }
 
+/* PRINT */
+@media print {
+    .no-print, .no-print * {
+        display: none !important;
+    }
+}
