@@ -1,13 +1,20 @@
 ---
 layout: page
-cover: default.jpg
+cover: Learn.jpg
 ---
 
 CVMake is a [Makerspace](/faq) in the Conejo Valley.  Our mission is to ..??
 
-We serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley, Camirillo, etc.
+# Who
 
-The Conejo Vally includes Thousand Oaks, Newbury Park, Westlake Village, Oak Park and Agoura Hills.
+A Makerspace is a place where [Makers](/faq) can get together and help each other create interesting projects.
+
+# What
+
+
+
+# Where
+
 
 # What is our mission?
 ss

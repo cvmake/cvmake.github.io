@@ -2,7 +2,8 @@
 layout: page
 title: FAQ
 permalink: /faq
-cover: cvmake-icon.jpg
+cover: DigisparkDark.jpg
+
 ---
 
 # Frequently Asked Questions
@@ -37,7 +38,20 @@ hours?
 tutorial / learnhow to use 3d printersmake magzaine
 essential skills, solder, sparkfun/adafruit, resistor codes
 
+# Q: What areas does CVMake serve?
+
+The Conejo Vally includes Thousand Oaks, Newbury Park, Westlake Village, Oak Park and Agoura Hills.
+But we serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley, Camirillo, etc.
+
+
 # Q: Why does Conejo Valley need a Makerspace?
 
 A: Conejo Valley has lots of engineers and lots of artistic talent spilling over from LA.
 When people get together and share their talents, great things happen.
+
+### Image Credit:
+<ul>
+<li>Mike
+<li><a href="https://www.flickr.com/photos/re-publica/17202693787/">re:publica 2015 - Tag 3</a>
+<li><a href="http://flickr.com/photos/22850192@N03/6322409939">Kevin B 3</a>
+</ul>
