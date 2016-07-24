@@ -36,6 +36,7 @@ a img {
 
 a:hover {
   color: #555;
+  background-color: #ddd;
   border: none;
 }
 
@@ -62,15 +63,11 @@ h1 {
 
 .posts a:hover {
   color: #777;
+  background-color: #ddd;
 }
 
 .posts-list {
   list-style-type: none;
-}
-
-.posts-list li {
-  text-align: center;
-  line-height: 1.75em;
 }
 
 /*****************************************************************************/
@@ -108,13 +105,11 @@ h1 {
 }
 
 .footer {
-  font-size: 0.95em;
-  border-top: 1px solid #e7e7e7;
-  padding-top: 1.25em;
-  padding-bottom: 1.5em;
   overflow: hidden;
-  float: center;
-  text-align: center;
+}
+
+.footer .footer-links a {
+  border-bottom: 0px;
 }
 
 /*****************************************************************************/
@@ -144,7 +139,7 @@ h1 {
 
 #title {
   color: #4a4a4a;
-  margin-bottom: 0.35em;
+  margin-bottom: 0em;
   font-size: 3em;
   line-height: 40px;
   text-transform: uppercase;
@@ -259,7 +254,6 @@ h1 {
   font-family: Monaco, "Courier New", monospace;
   font-weight: 600;
   font-size: 0.65em;
-  display: block;
   text-transform: uppercase;
 }
 

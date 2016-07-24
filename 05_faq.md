@@ -24,19 +24,19 @@ Anyone can be a maker: engineers, kids, artists, students, entrepreneurs, housew
 
 Whatever you want. Some people come to work on their projects. Some people come to meet interesting people
 doing interesting projects. Some people bring their technical challenges, hoping that others have ideas.
-Because of the diverse background of our members, you can get advice about any type of project.
+Because of the diverse background of our members, you can usually get advice about any type of project.
+
+# Q: When are the meetings?
+
+Right now, just 7-9PM every Thursday. Eventually, the space will be open during weekly member meetings, classes and other special events.
 
 # Q: What equipment do you have?
+
+We have a few 3D printers, an Oscillicope and some electronics. We will have more when we get a space to put them.
 
 # Q: Can I bring my kids?
 
 Yes! But keep in mind that we are not a daycare. Only bring you kids if they are interested in becoming a maker.
-
-what is it?
-what do I do?
-hours?
-tutorial / learnhow to use 3d printersmake magzaine
-essential skills, solder, sparkfun/adafruit, resistor codes
 
 # Q: What areas does CVMake serve?
 
@@ -49,9 +49,6 @@ But we serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley,
 A: Conejo Valley has lots of engineers and lots of artistic talent spilling over from LA.
 When people get together and share their talents, great things happen.
 
-### Image Credit:
-<ul>
-<li>Mike
-<li><a href="https://www.flickr.com/photos/re-publica/17202693787/">re:publica 2015 - Tag 3</a>
-<li><a href="http://flickr.com/photos/22850192@N03/6322409939">Kevin B 3</a>
-</ul>
+# Q: Where can I learn more?
+
+On our [Learn](/learn) page.

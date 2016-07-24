@@ -16,7 +16,7 @@
 
 <p>{{ site.description }}</p>
 </br>
-<b><a href="http://www.meetup.com/Conejo-Valley-Makerspace/">Meetings:</a> Every Thursday 7-10pm</b></br>
+<b><a href="http://www.meetup.com/Conejo-Valley-Makerspace/">Meetings:</a> Every Thursday 7-9pm</b></br>
 Barnes &amp; Noble</br>
 160 S Westlake Blvd</br>
 Westlake Village, CA 91362</br>
@@ -37,15 +37,8 @@ Westlake Village, CA 91362</br>
   <!-- TODO: someday donations -->
 </ul>
 
-<div class="posts">
-  <ul class="posts-list">
-    {% for post in site.posts %}
-      <li class="post-link">
-        <a class="post-title" href="{{ post.url }}">
-          <span class="post-date">{{ post.date | date_to_string }}</span>
-          {{ post.title }}
-        </a>
-      </li>
-    {% endfor %}
-  </ul>
+<div class="colophon">
+  <p>
+    <p >subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+  </p>
 </div>

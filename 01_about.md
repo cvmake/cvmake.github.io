@@ -5,16 +5,13 @@ permalink: /about
 cover: mikeout-and-j.jpg
 ---
 
-project types list
-flyer, parking, map including doors and inside directions
+<!-- This page:  flyer, parking, map including doors and inside directions -->
 
-Community / Membership / Workspace
-Meetings Every Thursday 7:00 - 9:00 PM
+**The Conejo Valley MakerSpace is where new and experienced Makers of all ages connect to work on real projects, share, learn, and have fun.**
+
 We are a makerspace created to serve the Conejo Valley area. The Conejo Valley Makerspace will support and embrace the resurgence of hands‐on Do‐It‐Yourself and maker culture through classes, meetups, membership, and community outreach where engineers, artists, students, and entrepreneurs can make ideas into real things.
 
-About the physical space: Workbenches, Electronics Equipment, 3D Printers, Woodworking, Aluminum CNC Mill, and more!
-
-Community‐driven shared workspace on the 101 Tech Corridor in Westlake Village, CA
+We meet every Thursday from 7PM to 9PM at the Barnes & Noble at the corner of S Westlake Blvd and Thousand Oaks Blvd.  Look for geeks with gadgets at the food tables.
 
 - Embraces the resurgence of Do It Yourself, DIY, and Maker culture
 - In‐house manufacturing and rapid prototyping capabilities:
@@ -43,12 +40,7 @@ Structure:
 - Corporate funded sponsorships
 - 501(c)3 Non‐Profit Community‐driven shared workspace
 
-
-
-
-
-
-Maker things we want to do next:
+Things we want to do next:
 
 * Classes (Paid and Free):
 *  Arduino / Raspberry PI / Microcontrollers
@@ -74,3 +66,12 @@ Maker things we want to do next:
 * Cooperative events with Crash Space & other makerspaces
 * Group created art and engineering projects
 * Smart / Internet of Things experiments in the lab, home, and garden
+
+Right now, we don't have a space yet, but we hope to. It will contain:
+
+* Workbenches
+* Electronics Equipment
+* 3D Printers
+* Woodworking equitment
+* Aluminum CNC Mill
+* and more!

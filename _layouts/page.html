@@ -2,6 +2,8 @@
 layout: default
 ---
 <div class="content" id="home">
+  <div class="post">
+
   <div id="post-info">
     <div id="cover-photo-container">
       <img id="cover-photo" src="/images/{{ page.cover }}">
@@ -9,14 +11,24 @@ layout: default
     <div id="info-container">
       <h1 id="title">{{ page.title }}</h1>
     </div>
+    <hr>
+    <div class="footer">
+      <span class="footer-links">
+        {% for my_page in (site.pages | sort:"path") %}
+          {% if my_page.title %}
+          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+          <span class="separator">&bull;</span>
+          {% endif %}
+        {% endfor %} <a class="page-link" href="/">Home</a>
+      </span>
+    </div>
+<hr>
   </div>
-
-  <div class="post">
     {{ content }}
   </div>
   <div class="colophon">
     <p>
-      <span id="social">For more info, email <a href="mailto:info@cvmake.org">info@cvmake.org</a>!</span>
+      <span id="social">For more info, email <a href="mailto:info@cvmake.org">info@cvmake.org</a></span>
     </p>
   </div>
 </div>
