@@ -13,8 +13,7 @@ In the [past](/past), we have put on several different events, from Arduino clas
 
 ### Image Credit:
 
-<ul>
  <li> Mikey
  <li><a href="https://www.flickr.com/photos/re-publica/17202693787/">re:publica 2015 - Tag 3</a>
  <li><a href="http://flickr.com/photos/22850192@N03/6322409939">Kevin B 3</a>
-</ul>
+
