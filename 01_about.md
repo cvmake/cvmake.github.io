@@ -11,7 +11,7 @@ cover: mikeout-and-j.jpg
 
 We are a makerspace created to serve the Conejo Valley area. The Conejo Valley Makerspace will support and embrace the resurgence of hands‐on Do‐It‐Yourself and maker culture through classes, meetups, membership, and community outreach where engineers, artists, students, and entrepreneurs can make ideas into real things.
 
-We meet every Thursday from 7PM to 9PM at the Barnes & Noble at the corner of S Westlake Blvd and Thousand Oaks Blvd.  Look for geeks with gadgets at the food tables.
+We meet every Thursday and host other scheduled events and classes.
 
 - Embraces the resurgence of Do It Yourself, DIY, and Maker culture
 - In‐house manufacturing and rapid prototyping capabilities:
@@ -43,7 +43,7 @@ Structure:
 Things we want to do next:
 
 * Classes (Paid and Free):
-*  Arduino / Raspberry PI / Microcontrollers
+* Arduino / Raspberry PI / Microcontrollers
 * Soldering
 * Robotics
 * Programming
@@ -67,11 +67,11 @@ Things we want to do next:
 * Group created art and engineering projects
 * Smart / Internet of Things experiments in the lab, home, and garden
 
-Right now, we don't have a space yet, but we hope to. It will contain:
+Right now, we don't have a permanent space yet, but we hope to. It will contain:
 
 * Workbenches
-* Electronics Equipment
+* Electronics equipment
 * 3D Printers
-* Woodworking equitment
+* Woodworking equipment
 * Aluminum CNC Mill
 * and more!
