@@ -75,3 +75,7 @@ Right now, we don't have a permanent space yet, but we hope to. It will contain:
 * Woodworking equipment
 * Aluminum CNC Mill
 * and more!
+
+&nbsp;
+
+<small>Image credit: Mike.</small>

@@ -5,19 +5,7 @@ permalink: /learn
 cover: wikimedia-commons-Makerspace_SLUB.jpg
 ---
 
-On your journey to make a project, you must pickup many new skills. Here are some resources to help you get started:
-
-[Adafruit](https://www.adafruit.com/) has [resources for learning](https://learn.adafruit.com/)
-
-[Sparkfun](https://www.sparkfun.com/) has [resources for learning](https://learn.sparkfun.com/)
-
-[YouTube](https://youtube.com/) has many different channels on all aspects of learning
-
-[Arduino](https://www.arduino.cc/) ([What is it?](https://www.youtube.com/watch?v=5F054MNB1QI))
-
-[Make Magazine](https://makezine.com/)
-
-# Skills to learn
+On your journey to make a project, you must pickup many new skills, such as:
 
 * Soldering
 * Programming
@@ -29,13 +17,38 @@ On your journey to make a project, you must pickup many new skills. Here are som
 * Wearables (electronics sewn into clothing)
 * Video Game creation
 
-If you don't know something, come to a meeting and ask!
+Here are some resources to help you get started. If you don't know something, come to a meeting and ask!
 
-tutorial / learnhow to use 3d printersmake magzaine
-essential skills, solder, sparkfun/adafruit, resistor codes
+# Companies Selling Electronic Parts / Kits
+
+* [Adafruit](https://www.adafruit.com/) (also has some [resources for learning](https://learn.adafruit.com/))
+* [Sparkfun](https://www.sparkfun.com/) (also has some [resources for learning](https://learn.sparkfun.com/))
+* [Element 14](https://www.element14.com/community/welcome) (also has a [learning center](https://www.element14.com/community/community/learning-center?ICID=menubar_resources_learningcenter))
+* [Arduino](https://www.arduino.cc/) ([What is it?](https://www.youtube.com/watch?v=5F054MNB1QI))
+* [Kiwi Crate](http://www.kiwicrate.com/) - Get sent a monthly box of materials with instructions.
+
+# Publications
+
+* [Make Magazine](https://makezine.com/)
+
+# Examples
+
+* [YouTube](https://youtube.com/) - Many different channels on all aspects of learning
+* [Hackaday](http://hackaday.com/) - Interesting things people have made
+* [diy.org](https://diy.org/) - Online badges/activities. (Kid friendly)
+
+# Learn Programming
+
+* [CoderDojo Resources](https://coderdojo.com/resources/) - Links for getting started in various programming languages
+* [Code Combat](https://codecombat.com/) - Learn coding while playing a game (Kid friendly)
+
+# Competitions
+
+* [Destination Imagination](https://www.destinationimagination.org/)
+* [FIRST Robotics](http://www.firstinspires.org/)
 
 
-### Image Credit:
-<ul>
-<li> <a href="https://commons.wikimedia.org/wiki/File:Makerspace_SLUB.jpg">SLUB Presse2015</a>
-</ul>
+&nbsp;
+
+
+<small>Image Credit: <a href="https://commons.wikimedia.org/wiki/File:Makerspace_SLUB.jpg">SLUB Presse2015</a>.</small>

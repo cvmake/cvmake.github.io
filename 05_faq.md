@@ -20,35 +20,38 @@ Makers are a community of people sharing and learning in the context of building
 
 Anyone can be a maker: engineers, kids, artists, students, entrepreneurs, housewives, etc.  All it takes is a drive to turn your ideas into real things. When a Maker gets stuck, the Maker community helps out: They an be a source of ideas, creative work-arounds and resources for learning or getting something done. Makers constantly share what they know and encourage learning and teaching in both formal and informal settings.
 
-# Q: What happens at meetings?
+# What happens at meetings?
 
 Whatever you want. Some people come to work on their projects. Some people come to meet interesting people
 doing interesting projects. Some people bring their technical challenges, hoping that others have ideas.
 Because of the diverse background of our members, you can usually get advice about any type of project.
 
-# Q: When are the meetings?
+# When are the meetings?
 
-Right now, just 7-9PM every Thursday. Eventually, the space will be open during weekly member meetings, classes and other special events.
+We meet every Thursday from 7-9PM. It may be open at other times for classes and other special events.
 
-# Q: What equipment do you have?
+# What equipment do you have?
 
 We have a few 3D printers, an Oscillicope and some electronics. We will have more when we get a space to put them.
 
-# Q: Can I bring my kids?
+# Can I bring my kids?
 
 Yes! But keep in mind that we are not a daycare. Only bring you kids if they are interested in becoming a maker.
 
-# Q: What areas does CVMake serve?
+# What areas does CVMake serve?
 
 The Conejo Vally includes Thousand Oaks, Newbury Park, Westlake Village, Oak Park and Agoura Hills.
 But we serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley, Camirillo, etc.
 
+# Why does Conejo Valley need a Makerspace?
 
-# Q: Why does Conejo Valley need a Makerspace?
-
-A: Conejo Valley has lots of engineers and lots of artistic talent spilling over from LA.
+Conejo Valley has lots of engineers and lots of artistic talent spilling over from LA.
 When people get together and share their talents, great things happen.
 
-# Q: Where can I learn more?
+# Where can I learn more?
 
 On our [Learn](/learn) page.
+
+&nbsp;
+
+<small>Image credit: Dan.</small>
