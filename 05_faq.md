@@ -32,16 +32,16 @@ We meet every Thursday from 7-9PM. It may be open at other times for classes and
 
 # What equipment do you have?
 
-We have a few 3D printers, an Oscillicope and some electronics. We will have more when we get a space to put them.
+We have a few 3D printers, an Oscillicope and some electronics. We will have more equipment when we get a space to put them.
 
 # Can I bring my kids?
 
-Yes! But keep in mind that we are not a daycare. Only bring you kids if they are interested in becoming a maker.
+Yes! But keep in mind that we are not a daycare. Only bring you kids if *they* are interested in becoming a maker.
 
 # What areas does CVMake serve?
 
 The Conejo Vally includes Thousand Oaks, Newbury Park, Westlake Village, Oak Park and Agoura Hills.
-But we serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley, Camirillo, etc.
+But we serve the US-101 Tech Corridor, in easy reach for Calabasas, Simi Valley, Camarillo, etc.
 
 # Why does Conejo Valley need a Makerspace?
 
@@ -51,6 +51,18 @@ When people get together and share their talents, great things happen.
 # Where can I learn more?
 
 On our [Learn](/learn) page.
+
+# Are there any other Makerspaces nearby?
+
+Yes, there are lots:
+
+- [RCMakes](http://rcmakes.com/) - Rancho Campana High School in Camarillo. Open Saturdays.
+- [CrashSpace](https://blog.crashspace.org/) - Culver City.  Open house at 8pm on the second Tuesday of every month.
+- [Santa Barbara Hackerspace](http://www.sbhackerspace.com/) - Goleta, CA - Open meeting Saturday 2:00 pm until midnight
+- [Make Ventura](http://www.makeventura.com/) - Downtown Ventura.
+- [Hex Labs](https://www.hexlabmakerspace.com/) - Chatsworth, CA
+- [LA MakerSpace](http://lamakerspace.org/program/la-first-library-makerspace/)
+
 
 &nbsp;
 

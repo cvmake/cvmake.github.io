@@ -11,7 +11,7 @@ cover: mikeout-and-j.jpg
 
 We are a makerspace created to serve the Conejo Valley area. The Conejo Valley Makerspace will support and embrace the resurgence of hands‐on Do‐It‐Yourself and maker culture through classes, meetups, membership, and community outreach where engineers, artists, students, and entrepreneurs can make ideas into real things.
 
-We meet every Thursday and host other scheduled events and classes.
+We meet **every Thursday at 7PM** and host other scheduled events and classes.
 
 - Embraces the resurgence of Do It Yourself, DIY, and Maker culture
 - In‐house manufacturing and rapid prototyping capabilities:

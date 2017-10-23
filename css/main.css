@@ -20,7 +20,7 @@ body {
   background-color: #fafbfc;
   font-family: 'Raleway', Arial, sans-serif;
   font-weight: 400;
-  font-size: 0.85em;
+  font-size: 1em;
   overflow: hidden;
 }
 
@@ -108,8 +108,22 @@ h1 {
   overflow: hidden;
 }
 
-.footer .footer-links a {
-  border-bottom: 0px;
+.footer-links > li > a {
+  font-size: 1.5em;
+  text-decoration: none;
+  padding-top: 3em;
+  padding-bottom: 0.5em;
+}
+
+.pagetitle {
+  font-size: 3em;
+  background-color: #e0e0e0;
+}
+
+.footer-links > li {
+  padding: 0.9em 1em;
+  list-style: none;
+  float: left;
 }
 
 /*****************************************************************************/

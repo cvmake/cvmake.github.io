@@ -5,7 +5,8 @@
 </div>
 <div class="footer">
   <span id="footer-links">
-    {% for my_page in (site.pages | sort:"path") %}
+    {% assign sorted_pages = site.pages | sort:"path" %}
+    {% for my_page in sorted_pages %}
       {% if my_page.title %}
       <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
       <span class="separator">&bull;</span>

@@ -5,7 +5,7 @@ permalink: /learn
 cover: wikimedia-commons-Makerspace_SLUB.jpg
 ---
 
-On your journey to make a project, you must pickup many new skills, such as:
+On your journey to make a project, you may need to pickup many new skills, such as:
 
 * Soldering
 * Programming
@@ -26,6 +26,7 @@ Here are some resources to help you get started. If you don't know something, co
 * [Element 14](https://www.element14.com/community/welcome) (also has a [learning center](https://www.element14.com/community/community/learning-center?ICID=menubar_resources_learningcenter))
 * [Arduino](https://www.arduino.cc/) ([What is it?](https://www.youtube.com/watch?v=5F054MNB1QI))
 * [Kiwi Crate](http://www.kiwicrate.com/) - Get sent a monthly box of materials with instructions.
+* [Mantis](https://www.mantisopenstem.com/) - Science stuff for kids learning
 
 # Publications
 
@@ -41,6 +42,12 @@ Here are some resources to help you get started. If you don't know something, co
 
 * [CoderDojo Resources](https://coderdojo.com/resources/) - Links for getting started in various programming languages
 * [Code Combat](https://codecombat.com/) - Learn coding while playing a game (Kid friendly)
+* [Exercism](http://exercism.io/) - For programmers who want to practice and/or pickup a new language.
+
+# Learn Electronics
+
+* [PIGHIXXX](http://www.pighixxx.com/) - Pinouts, references.
+
 
 # Competitions
 

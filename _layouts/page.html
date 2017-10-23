@@ -8,19 +8,26 @@ layout: default
     <div id="cover-photo-container">
       <img id="cover-photo" src="/images/{{ page.cover }}">
     </div>
-    <div id="info-container">
-      <h1 id="title">{{ page.title }}</h1>
-    </div>
     <hr>
     <div class="footer">
-      <span class="footer-links">
-        {% for my_page in (site.pages | sort:"path") %}
+      <ul class="footer-links">
+        {% assign sorted_pages = site.pages | sort:"path" %}
+        {% for my_page in sorted_pages %}
           {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          <span class="separator">&bull;</span>
+            <li>{% if my_page.title == page.title %}
+            <span class="pagetitle">{{ page.title }}</span>
+            {% else %}
+              <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+            {% endif %}
+            </li>
           {% endif %}
-        {% endfor %} <a class="page-link" href="/">Home</a>
-      </span>
+        {% endfor %}
+        {% if page.title %}
+          <li><a class="page-link" href="/">Home</a></li>
+          {% else %}
+          <li><span class="pagetitle">Home</span></li>
+          {% endif %}
+      </ul>
     </div>
 <hr>
   </div>
